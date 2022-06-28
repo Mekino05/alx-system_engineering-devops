@@ -1,1 +1,1 @@
-create a script that creates an alias name: ls venue: rm 0-alias
+create a script that prints hello user, where user is the current linux user
