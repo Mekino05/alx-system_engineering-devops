@@ -1,1 +1,1 @@
-create a script that counts the number of directories in the PATH
+create a script that lists environment variables
