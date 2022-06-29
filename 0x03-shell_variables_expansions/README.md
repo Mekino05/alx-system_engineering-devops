@@ -1,1 +1,1 @@
-write a script that displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables. the script should display the result, followed by a new line
+write a script that converts a number from base 2 to base 10. the number in base 2 is stored in the environment variable BINARY. the script should display the number in base 10, followed by a new line
