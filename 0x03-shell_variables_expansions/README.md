@@ -1,1 +1,1 @@
-create a script that prints all possible combinations of two letters, except oo. letters are lower cases, from a to z one combination per line. the output should be alpha ordered starting with aa. do not print oo. your script file should contain maximum 64 characters
+write a script that prints a number with two decimal places, followed by a new line. the number will be stored in the environment variable NUM
