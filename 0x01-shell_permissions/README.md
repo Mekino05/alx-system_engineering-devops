@@ -1,1 +1,1 @@
-create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. regular files should not be changed
+write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in working directory. the file olleh will bein working directory. note: the mode of olleh will not always be 664. make sure your script works for any mode
