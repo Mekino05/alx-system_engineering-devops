@@ -1,1 +1,1 @@
-write a script that converts a number from base 10 to base 16. the number in base 10 is stored in the environment variable DECIMAL. the script should display the number in base 16, followed by a new line
+write a script that encodes and decodes text using the rot13 encryption. assume ASCII
