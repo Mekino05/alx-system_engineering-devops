@@ -1,1 +1,1 @@
-write a script that sets the permission to the file hello as follows: owner: no permission at all. group: no permission at all. other user: all the permissions. the file hello will be in the working directory. you are not allowed to use commas for the script
+write a script that changes the group owner to school for the file hello. the file hello will be in a working directory
