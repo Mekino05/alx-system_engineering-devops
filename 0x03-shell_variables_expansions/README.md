@@ -1,1 +1,1 @@
-write a shell script that adds the two numbers stored in the enviroment variables WATER and STIR and prints the result. WATER is in base water. STIR is in base stir. the result should be in base bestchol
+write a script that displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables. the script should display the result, followed by a new line
