@@ -1,1 +1,1 @@
-write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in working directory. the file olleh will bein working directory. note: the mode of olleh will not always be 664. make sure your script works for any mode
+write a script that will play the StarWars IV episode in the terminal
