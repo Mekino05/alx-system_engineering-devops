@@ -1,6 +1,1 @@
-Write a script that sets the permission to the file hello as follows:
-
-Owner: no permission at all
-Group: no permission at all
-Other users: all the permissions
-The file hello will be in the working directory You are not allowed to use commas for this script
+write a script that sets the permission to the file hello as follows: owner: no permission at all. group: no permission at all. other user: all the permissions. the file hello will be in the working directory. you are not allowed to use commas for the script
