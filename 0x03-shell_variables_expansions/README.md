@@ -1,1 +1,1 @@
-write a script that converts a number from base 2 to base 10. the number in base 2 is stored in the environment variable BINARY. the script should display the number in base 10, followed by a new line
+create a script that prints all possible combinations of two letters, except oo. letters are lower cases, from a to z one combination per line. the output should be alpha ordered starting with aa. do not print oo. your script file should contain maximum 64 characters
