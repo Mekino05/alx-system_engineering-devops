@@ -1,1 +1,1 @@
-write a script that counts the number of directories and subdirectories in the current directory. the current and parent directories should not be taken into account hidden directories should be counted
+create a script that displays the 10 newest files in the current directoy. requirements: one file per line sorted from the newest to the oldest
