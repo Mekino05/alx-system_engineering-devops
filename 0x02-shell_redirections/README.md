@@ -1,1 +1,1 @@
-write a script that delete all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+write a script that counts the number of directories and subdirectories in the current directory. the current and parent directories should not be taken into account hidden directories should be counted
