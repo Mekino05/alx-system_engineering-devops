@@ -1,1 +1,1 @@
-write a command that finds all empty files and directories in the current directory and all sub directories only the names of the files and directories should be displayed (not the entire path) hidden files should be listed one file name per line the listing should end with a new line you are not allowed ti use basenow, grep, egrep, fgrep or rgrep
+write a script that displays a confused smiley '(Ôo)' .
