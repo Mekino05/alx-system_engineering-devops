@@ -1,1 +1,1 @@
-write a script that sets the mode of the file hello the same as olleh's mode. the file hello will be in the working directory. note: the mode of olleh will not always be 664. make sure your script works for any mode
+write a script that sets the permission to the file hello as follows: owners: no permission at all group: no permission at all other users: all the permissions. the file hello will be in the working directory
