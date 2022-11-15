@@ -1,1 +1,1 @@
-find the regular expression that will match the above cases
+write a Bash script that kills the process 7-highlander
